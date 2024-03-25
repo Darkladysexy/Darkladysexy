@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Duy Anh</h1>
 <h3 align="center">Live each day as if it’s your last</h3>
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3N2Mm0xZXI2bjg5a21ldWVuZHltaHkweXB6MHduczY2eGVkdjN3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x7bb9qSNPmGbemA6Y6/giphy-downsized-large.gif">
 
-<div style="width:100%;height:0;padding-bottom:101%;position:relative;"><iframe src="https://giphy.com/embed/x7bb9qSNPmGbemA6Y6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/art-glitch-digital-x7bb9qSNPmGbemA6Y6">via GIPHY</a></p>
+- 🌱 I’m currently learning **Java, Linux**
+
 - 📫 How to reach me **songoduycu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
